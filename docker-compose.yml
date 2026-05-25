@@ -1,0 +1,9 @@
+services:
+  jokenpo-api:
+    build: .
+    container_name: jokenpo-api
+    ports:
+      - "8080:80"
+    env_file:
+      - .env
+    restart: always
