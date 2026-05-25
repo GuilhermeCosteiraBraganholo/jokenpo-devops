@@ -29,3 +29,4 @@ cd jokenpo-azure
 
 
 Atualização para Pull Request Azure DevOps
+Nova alteração para Pull Request
